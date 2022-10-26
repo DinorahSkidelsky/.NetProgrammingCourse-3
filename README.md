@@ -16,10 +16,11 @@ Methods to implement:
 #### In the Main function of the Program.cs class do the following:
 
 1. Ask by keyboard for name, salary, gender, weight and height and create 1 person object.
+
 2. Show the complete information of the person in this format:
 -Name: Juan
 -Email: Juan@superempresa.com
 -Salary: 30000 ARS
--Sex: Male
+-Gender: Male
 -Weight: 70kg(B)
 -Height: 1.7m
