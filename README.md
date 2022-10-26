@@ -1,6 +1,6 @@
 ### Third Practical Work for the .Net Programming Course
 
-## Model the Person class with the following conditions:
+### Model the Person class with the following conditions:
 
 Attributes: name, e-mail, salary, gender, weight and height. Think about which visibility modifier is the most appropriate along with the type of each one since its attributes should not be accessed directly.
 
@@ -12,7 +12,7 @@ Methods to implement:
 ◦ CreateEmail(): Creates the person's e-mail from the name + @superempresa.com. This method is private and is called via the constructor.
 
 
-## In the Main function of the Program.cs class do the following:
+### In the Main function of the Program.cs class do the following:
 
 1. Ask by keyboard for name, salary, gender, weight and height and create 1 person object.
 2. Show the complete information of the person in this format:
