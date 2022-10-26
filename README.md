@@ -1,15 +1,16 @@
 ### Third Practical Work for the .Net Programming Course
 
-#### Model the Person class with the following conditions:
+#### Model the Persona (Person) class with the following conditions:
 
-Attributes: name, e-mail, salary, gender, weight and height. Think about which visibility modifier is the most appropriate along with the type of each one since its attributes should not be accessed directly.
+Attributes: nombre (name), e-mail, sueldo (salary), sexo (gender), peso (weight) and altura (height). 
+Think about which visibility modifier is the most appropriate along with the type of each one since its attributes should not be accessed directly.
 
 Implement a constructor that defines all the attributes by parameter except the e-mail that is specified later.
 
 Methods to implement:
 ◦ All Getters methods, Do not implement Setters.
 
-◦ CreateEmail(): Creates the person's e-mail from the name + @superempresa.com. This method is private and is called via the constructor.
+◦ CrearEmail(): Creates the person's e-mail from the name + @superempresa.com. This method is private and is called via the constructor.
 
 
 #### In the Main function of the Program.cs class do the following:
