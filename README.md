@@ -20,14 +20,9 @@ Methods to implement:
 
 2. Show the complete information of the person in this format:
 
--Name: Juan
-
--Email: Juan@superempresa.com
-
--Salary: 30000 ARS
-
--Gender: Male
-
--Weight: 70kg(B)
-
--Height: 1.7m
+* Name: Juan
+* Email: Juan@superempresa.com
+* Salary: 30000 ARS
+* Gender: Male
+* Weight: 70kg(B)
+* Height: 1.7m
