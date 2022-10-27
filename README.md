@@ -1,4 +1,4 @@
-### Third Practical Work for the .Net Programming Course
+## Third Practical Work for the .Net Programming Course
 
 #### Model the Person (Persona) class with the following conditions:
 
