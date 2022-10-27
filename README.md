@@ -23,6 +23,6 @@ Methods to implement:
 * Name: Juan
 * Email: Juan@superempresa.com
 * Salary: 30000 ARS
-* Gender: Male
+* Gender: Male (Femenino)
 * Weight: 70kg(B)
 * Height: 1.7m
